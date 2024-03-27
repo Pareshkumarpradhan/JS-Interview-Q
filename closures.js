@@ -1,3 +1,16 @@
+// Closures def
+// The function along with its lexicalscope together bundels is called closures
+
+// Uses of Closures:
+// -> Modular design pattern
+// -> Currying
+// -> Functions loke one
+// -> memoize
+// -> maintaining state in async world
+// -> setTimeout
+// -> Iterators
+
+
 // closures example 
 
 /*function x(){
