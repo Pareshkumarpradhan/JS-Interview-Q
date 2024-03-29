@@ -1,4 +1,4 @@
-// what is a callback function in ja
+// what is a callback function in js
 
 // setTimeout(function(){
 //  console.log("timer")
